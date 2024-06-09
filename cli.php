@@ -1,10 +1,10 @@
 <?php
 /*==========> INFO 
- * CODE     : BY ZLAXTERT
+ * CODE     : BY Vision
  * SCRIPT   : CC CHECKER
  * VERSION  : 4
- * TELEGRAM : t.me/zlaxtert
- * BY       : DARKXCODE
+ * TELEGRAM : t.me/visichkk
+ * BY       : Vision
  */
 
 require_once "function/function.php";
