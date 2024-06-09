@@ -1,11 +1,11 @@
 <?php
 
 /*==========> INFO 
- * CODE     : BY ZLAXTERT
+ * CODE     : BY Vision
  * SCRIPT   : CC CHECKER
  * VERSION  : 4
- * TELEGRAM : t.me/zlaxtert
- * BY       : DARKXCODE
+ * TELEGRAM : t.me/visichkk
+ * BY       : Vision
  */
 
  date_default_timezone_set("Asia/Jakarta");
